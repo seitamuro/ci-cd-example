@@ -169,4 +169,8 @@ jobs:
 
 # 参考文献
 
+READMEの参考文献
 https://knowledge.sakura.ad.jp/23478/
+
+workflow-example-for-rust.ymlの参考文献
+https://blog.takuchalle.dev/post/2020/10/22/github_actions_for_rust/
